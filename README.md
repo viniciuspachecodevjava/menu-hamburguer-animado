@@ -1,3 +1,2 @@
 # Projeto-menu-hamburguer-animate-css
-teste
-1
+Projeto criado com html e css puro
